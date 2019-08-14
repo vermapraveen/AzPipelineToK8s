@@ -1,0 +1,3 @@
+C:\Users\praveen_verma1\source\repos\HelloProj1\obj\Debug\netcoreapp2.2\HelloProj1.csproj.CoreCompileInputs.cache
+C:\Users\praveen_verma1\source\repos\HelloProj1\obj\Debug\netcoreapp2.2\HelloProj1.AssemblyInfoInputs.cache
+C:\Users\praveen_verma1\source\repos\HelloProj1\obj\Debug\netcoreapp2.2\HelloProj1.AssemblyInfo.cs
