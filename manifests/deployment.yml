@@ -1,0 +1,16 @@
+apiVersion : apps/v1beta1
+kind: Deployment
+metadata:
+  name: azpipelinetoksimg 
+spec:
+  replicas: 1
+  template:
+    metadata:
+      labels:
+        app: azpipelinetoksimg 
+    spec:
+      containers:
+        - name: azpipelinetoksimg 
+          image: xchangeregistry.azurecr.io/azpipelinetoksimg 
+          ports:
+          - containerPort: 80
